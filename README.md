@@ -1,0 +1,1 @@
+# amp4e_splunk_events_input_second
